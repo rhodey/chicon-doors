@@ -1,4 +1,4 @@
-# door
+# chicon-doors
 
 shorts pin `17` to ground when status code `200` received from `<endpoint>`.
 
@@ -22,7 +22,7 @@ An HTTP POST request will be sent to `<endpoint>` containing JSON in the form of
 }
 ```
 
-If the wrong number of command line args are supplied the script will exit with code 1, else code 0.
+If the wrong number of command line args are supplied the script will exit with code `1`, else code `0`.
 
 
 ## License
